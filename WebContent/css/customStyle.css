@@ -19,6 +19,17 @@
   max-width: 532px;
   margin: 60px auto 10px;
 }
+.RegisterFormFontColor
+{
+	color: cornsilk;
+}
+.RegisterFormHeader
+{
+	font-size:21px;
+}
+.submitbutton{
+	margin-top: 425px !important;
+}
 #loginButton {
 	background-color: green;
 }

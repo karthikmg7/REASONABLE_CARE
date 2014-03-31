@@ -37,7 +37,7 @@
       
       <button id="loginButton" class="btn btn-lg btn-primary btn-block" type="submit">Log in</button>   
     </form>
-  <a href="RegisterNewStudent"><p id="para" class="text-center sign-up"><strong>To Register, Click Here!</strong></p><a>
+  <a href="RegisterStudent.jsp"><p id="para" class="text-center sign-up"><strong>To Register, Click Here!</strong></p><a>
   <div id="welcometext" class="text-center"></div>
 </div>
 
